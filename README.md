@@ -1,5 +1,8 @@
 # pagila-hw2
-![https://github.com/Afzal-Patel/pagila-hw2/actions?query=workflow%3Atests](https://github.com/Afzal-Patel/pagila-hw2/workflows/tests/badge.svg)
+
+[![tests](https://github.com/Afzal-Patel/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/Afzal-Patel/pagila-hw2/actions/workflows/tests.yml)
+
+
 ## Tasks
 
 The instructions are the same as for the first [pagila-hw](https://github.com/mikeizbicki/pagila-hw) assignment.
